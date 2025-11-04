@@ -60,3 +60,4 @@ Vă recomandăm să folosiți **CLion** de la **JetBrains**, aveți subscripție
 # Resurse utile:
 - [Laborator / Colocviu - Probleme medii de la POO Mate-Info](https://github.com/Ionnier/poo-wps/blob/main/lab)
 - [Proiect - Template-uri](https://github.com/tibmax01/oop-template)
+- [Quiz-uri POO](https://oopquiz.fly.dev/index.php?id=1)
