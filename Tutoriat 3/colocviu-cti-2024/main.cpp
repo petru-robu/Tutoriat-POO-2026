@@ -240,7 +240,7 @@ int main()
 
 /*
 Pentru alta data
-Polimorfism
+Polimorfism:
 
 
 class Proba

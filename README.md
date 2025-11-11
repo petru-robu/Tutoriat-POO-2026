@@ -25,13 +25,13 @@ Vă recomandăm să folosiți **CLion** de la **JetBrains**, aveți subscripție
 ## Proiectele noastre
 
 > [Vlad - PC Builder - API cu crow.h și frontend în React + TS](https://github.com/vlaxcs/PC-Builder)\
-> [Petru - TBA]()
+> [Petru - GoGame - Implementare jocului de GO (cu interfata SFML).](https://github.com/petru-robu/GoGame)
 
 # Materie
-- [ ] Compunere
-- [ ] Constructori 
-- [ ] cc, op=, destr 
-- [ ] op<<
+- [x] Compunere
+- [x] Constructori 
+- [x] cc, op=, destr 
+- [x] op<<
 - [ ] Moștenire 
 - [ ] Virtual
 - [ ] Excepții 
@@ -53,11 +53,19 @@ Vă recomandăm să folosiți **CLion** de la **JetBrains**, aveți subscripție
 
 ## Tutoriat 3 - 04.11.2025
 - Consultații pentru proiecte
-- Model de colocviu
-    - [Cerință](./Tutoriat%203/colocviu-cti-2024/Colocviu%20CTI%20-%202024.pdf)
-    - [TBA - Rezolvare]()
+- [Colocviu_CTI_2024](./colocvii/subiecte_colocviu/Colocviu_CTI_2024.pdf)
+    - [Rezolvare](./Tutoriat%203/colocviu-cti-2024/main.cpp)
+
+# Colocviile date in anii trecuti:
+- [ ] [Colocviu_CTI_2021](./colocvii/subiecte_colocviu/Colocviu_CTI_2021.pdf)
+- [ ] [Colocviu_CTI_2022](./colocvii/subiecte_colocviu/Colocviu_CTI_2022.pdf)
+- [x] [Colocviu_CTI_2024](./colocvii/subiecte_colocviu/Colocviu_CTI_2024.pdf)
+- [ ] [Colocviu_CTI_2025](./colocvii/subiecte_colocviu/Colocviu_CTI_2025.pdf)
+- [ ] [Colocviu_INFO_2021](/colocvii/subiecte_colocviu/Colocviu_INFO_2021.pdf)
+- [ ] [Colocviu_INFO_2023](/colocvii/subiecte_colocviu/Colocviu_INFO_2023.pdf)
+- [ ] [Colocviu_INFO_2024](/colocvii/subiecte_colocviu/Colocviu_INFO_2024.pdf)
+- [ ] [Colocviu_MI_2021](/colocvii/subiecte_colocviu/Colocviu_MI_2021.pdf)
 
 # Resurse utile:
+- [Quiz-uri POO (pentru examen)](https://oopquiz.fly.dev/index.php?id=1)
 - [Laborator / Colocviu - Probleme medii de la POO Mate-Info](https://github.com/Ionnier/poo-wps/blob/main/lab)
-- [Proiect - Template-uri](https://github.com/tibmax01/oop-template)
-- [Quiz-uri POO](https://oopquiz.fly.dev/index.php?id=1)
