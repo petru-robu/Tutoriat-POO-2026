@@ -17,11 +17,11 @@ La acest tutoriat vom trece prin materie, oferindu-vă ajutor pentru proiectele 
 - [ ] Template-uri
 - [ ] Design Patterns
 
-## Tutoriat 1 - 21.10.2026
+## Tutoriat 1 
 
-## Tutoriat 2 - 28.10.2026
+## Tutoriat 2 
 
-## Tutoriat 3 - 04.11.2025
+## Tutoriat 3 
 
 # Colocviile date in anii trecuti:
 - [Colocviu_CTI_2021](./colocvii/subiecte_colocviu/Colocviu_CTI_2021.pdf)
