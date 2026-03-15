@@ -1,6 +1,6 @@
 # Tutoriat de Programare Orientată pe Obiecte (POO)
 
-## Miercuri 8:00 - 10:00 | Sala ?
+# Miercuri 8:00 - 10:00 | Sala ?
 
 La acest tutoriat vom trece prin materie, oferindu-vă ajutor pentru proiectele voastre și rezolvând împreună probleme pe care le găsiți în subiectele din examen / colocviu din anii anteriori.
 
